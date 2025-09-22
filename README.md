@@ -1,44 +1,59 @@
-### Hi there, I'm [Md. Mehedi Hasan][website] 👋
+# 👋 Hi, I'm Md. Mehedi Hasan  
 
-[![Website](https://img.shields.io/website?label=mehedi-hasan.net&style=for-the-badge&url=https%3A%2F%2Fmehedi-hasan.net)](http://mehedi-hasan.net/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/MehediHasanOpu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMehediHasanOpu&screen_name=MehediHasanOpu)
+🌐 Founder of [**NopSolutions**](https://www.nop-solutions.com/) | 💻 Full-Stack Web Developer | 🚀 Tech Enthusiast  
 
-## I'm a Full Stack Software Developer!!
+---
 
-- 🌱 I’m currently learning Azure Services 🤣
-- ⚡ Fun fact: I love to solve programmatic problems
+## 👨‍💻 About Me  
+I am a passionate full-stack developer from **Dhaka, Bangladesh**, with expertise in building scalable web applications, eCommerce platforms, and enterprise solutions.  
+With years of hands-on experience, I specialize in **.NET Core, Web API, Vue.js, Angular, PHP (Laravel)**, and modern database solutions.  
 
-### Connect with me:
+I’ve contributed to projects ranging from **ERP systems** to **eCommerce platforms** and **SaaS applications**, and I love turning complex business requirements into elegant, high-performing software.  
 
-[<img align="left" alt="mehedi-hasan.net" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Mehedi Hasan Opu | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Mehedi Hasan Opu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Md. Mehedi Hasan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Mehedi Hasan Opu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+---
 
-<br />
+## 🛠️ Tech Stack
+- **Backend:** C#, .NET Core, ASP.NET Web API, PHP (Laravel), Entity Framework, SignalR  
+- **Frontend:** Vue.js, Nuxt, Angular, TypeScript, Vuetify, BootstrapVue, Ant Design Vue  
+- **Databases:** SQL Server, MySQL, Oracle Database, Oracle BI Publisher  
+- **Other Tools:** Docker, Kubernetes, GitHub Actions, Azure DevOps, AWS, Crystal Reports  
+- **Principles:** Clean Architecture, Vertical Slice Architecture, Dependency Injection, Unit of Work, CI/CD  
 
-### Languages and Tools:
+---
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<br />
-<br />
+## 💼 Professional Experience  
+### 🚀 Senior Software Engineer @ **Xinaps (Netherlands)**  
+*Oct 2022 – Jan 2025*  
+- Migrated core systems from **Vue 2 → Vue 3** with full TypeScript integration  
+- Implemented **Dropbox, SharePoint, OneDrive CDEs** and **BIM360 integrations**  
+- Built scalable backend APIs with **ASP.NET Web API, SignalR**  
+- Contributed to **Verifi3D (now Solibri CheckPoint)**, enhancing clash detection and model validation  
 
-[website]: https://mehedi-hasan.net
-[twitter]: https://twitter.com/MehediHasanOpu
-[youtube]: https://www.youtube.com/channel/UCeUtu-_66zAp9XWGQSQMObw
-[instagram]: https://www.instagram.com/hemlock.flower/
-[linkedin]: https://www.linkedin.com/in/md-mehedi-hasan-080752197/
+### 💡 Programmer @ **Computer Network Systems Ltd. (Bangladesh)**  
+*Nov 2019 – Oct 2022*  
+- Developed automation systems for **Chittagong Port Authority**  
+- Designed large-scale RESTful APIs with **Laravel + Oracle**  
+- Built **Nirsheba E-Commerce**, powering order-to-delivery workflows  
+
+---
+
+## 🌟 Personal Projects  
+- **[TradeFlow ERP](https://app.nopsolution.net)** → Complete ERP with Accounts, HRM, POS, Sales & Purchase  
+- **[Sandwip Shop](https://nopsolution.net)** → Full-featured eCommerce system  
+- **[MedixRecord](https://medixrecord.com/)** → SaaS for personal medical records (in progress)  
+- **[NopSolutions Marketplace](https://www.nop-solutions.com/)** → Premium themes & plugins for nopCommerce  
+
+🎨 **nopCommerce Themes** → [Bakenest](https://bakenest.nop-solutions.com/) · [Beautiva](https://beautiva.nop-solutions.com/) · [Carvio](https://carvio.nop-solutions.com/) · … *(15+ total)*  
+🧩 **nopCommerce Plugins** → [bKash](https://www.nop-solutions.com/bkash) · [SSLCommerz](https://www.nop-solutions.com/sslcommerz) · [Stripe](https://www.nop-solutions.com/stripe) · [Mega Menu](https://www.nop-solutions.com/mega-menu) · … *(15+ total)*  
+
+---
+
+## 📫 Connect With Me  
+- 📧 Email: **mehedihasan.al.bd@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/mehedi-hasan-opu](https://www.linkedin.com/in/mehedi-hasan-opu)  
+- 🌐 Portfolio: [www.nop-solutions.com](https://www.nop-solutions.com/)  
+- 📞 Phone: **+8801723962962**  
+
+---
+
+✨ *“Code is not just about solving problems — it’s about creating meaningful solutions that empower people and businesses.”*  

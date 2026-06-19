@@ -1,59 +1,285 @@
-# 👋 Hi, I'm Md. Mehedi Hasan  
+# 👋 Hi, I'm Md. Mehedi Hasan
 
-🌐 Founder of [**NopSolutions**](https://www.nop-solutions.com/) | 💻 Full-Stack Web Developer | 🚀 Tech Enthusiast  
+### Senior Full-Stack Engineer | SaaS Founder | ERP Architect | .NET & Vue.js Specialist
 
----
-
-## 👨‍💻 About Me  
-I am a passionate full-stack developer from **Dhaka, Bangladesh**, with expertise in building scalable web applications, eCommerce platforms, and enterprise solutions.  
-With years of hands-on experience, I specialize in **.NET Core, Web API, Vue.js, Angular, PHP (Laravel)**, and modern database solutions.  
-
-I’ve contributed to projects ranging from **ERP systems** to **eCommerce platforms** and **SaaS applications**, and I love turning complex business requirements into elegant, high-performing software.  
+🌍 Based in Bangladesh
+🚀 Founder of NopSolutions
+💼 6+ Years of Professional Software Engineering Experience
 
 ---
 
-## 🛠️ Tech Stack
-- **Backend:** C#, .NET Core, ASP.NET Web API, PHP (Laravel), Entity Framework, SignalR  
-- **Frontend:** Vue.js, Nuxt, Angular, TypeScript, Vuetify, BootstrapVue, Ant Design Vue  
-- **Databases:** SQL Server, MySQL, Oracle Database, Oracle BI Publisher  
-- **Other Tools:** Docker, Kubernetes, GitHub Actions, Azure DevOps, AWS, Crystal Reports  
-- **Principles:** Clean Architecture, Vertical Slice Architecture, Dependency Injection, Unit of Work, CI/CD  
+## 🚀 About Me
+
+I am a Full-Stack Software Engineer specializing in building enterprise-grade web applications, SaaS platforms, ERP systems, eCommerce solutions, and cloud-based business applications.
+
+Over the past 6+ years, I have designed and delivered software products across:
+
+* Construction Technology (BIM)
+* FinTech
+* Logistics
+* Healthcare
+* Manufacturing
+* Education
+* E-Commerce
+* Real Estate
+
+I enjoy transforming complex business processes into scalable software solutions using modern architecture patterns and clean code principles.
 
 ---
 
-## 💼 Professional Experience  
-### 🚀 Senior Software Engineer @ **Xinaps (Netherlands)**  
-*Oct 2022 – Jan 2025*  
-- Migrated core systems from **Vue 2 → Vue 3** with full TypeScript integration  
-- Implemented **Dropbox, SharePoint, OneDrive CDEs** and **BIM360 integrations**  
-- Built scalable backend APIs with **ASP.NET Web API, SignalR**  
-- Contributed to **Verifi3D (now Solibri CheckPoint)**, enhancing clash detection and model validation  
+## 🏢 Founder — NopSolutions
 
-### 💡 Programmer @ **Computer Network Systems Ltd. (Bangladesh)**  
-*Nov 2019 – Oct 2022*  
-- Developed automation systems for **Chittagong Port Authority**  
-- Designed large-scale RESTful APIs with **Laravel + Oracle**  
-- Built **Nirsheba E-Commerce**, powering order-to-delivery workflows  
+I founded NopSolutions, an independent software marketplace focused on the nopCommerce ecosystem.
+
+### Achievements
+
+✅ 15+ Commercial nopCommerce Themes
+
+* Bakenest
+* Beautiva
+* Booklyn
+* Carvio
+* Fashora
+* Fresh Basket
+* Grocery
+* Herby
+* Kiddykart
+* Motonex
+* Nuvra
+* Oralia
+* Pharmacy
+* Sportiva
+* Stylique
+
+✅ 16+ Commercial Plugins
+
+Including:
+
+* bKash
+* SSLCommerz
+* Stripe
+* Mega Menu
+* Quick View
+* Prescription Module
+* Deal of the Day
+* And many more
+
+🌐 https://www.nop-solutions.com
 
 ---
 
-## 🌟 Personal Projects  
-- **[TradeFlow ERP](https://app.nopsolution.net)** → Complete ERP with Accounts, HRM, POS, Sales & Purchase  
-- **[Sandwip Shop](https://nopsolution.net)** → Full-featured eCommerce system  
-- **[MedixRecord](https://medixrecord.com/)** → SaaS for personal medical records (in progress)  
-- **[NopSolutions Marketplace](https://www.nop-solutions.com/)** → Premium themes & plugins for nopCommerce  
+## 💻 Professional Experience
 
-🎨 **nopCommerce Themes** → [Bakenest](https://bakenest.nop-solutions.com/) · [Beautiva](https://beautiva.nop-solutions.com/) · [Carvio](https://carvio.nop-solutions.com/) · … *(15+ total)*  
-🧩 **nopCommerce Plugins** → [bKash](https://www.nop-solutions.com/bkash) · [SSLCommerz](https://www.nop-solutions.com/sslcommerz) · [Stripe](https://www.nop-solutions.com/stripe) · [Mega Menu](https://www.nop-solutions.com/mega-menu) · … *(15+ total)*  
+### Senior Software Engineer — Xinaps (Netherlands)
+
+**Oct 2022 – Jan 2025**
+
+Worked on Verifi3D (now Solibri CheckPoint), a BIM model coordination and clash detection platform used by engineering and construction companies worldwide.
+
+Key Contributions:
+
+* Led Vue 2 → Vue 3 migration
+* Introduced TypeScript across the frontend
+* Integrated Dropbox, SharePoint and OneDrive CDEs
+* Implemented Autodesk BIM360 integrations
+* Built scalable ASP.NET Web APIs
+* Developed real-time features using SignalR
+
+Tech Stack:
+
+`ASP.NET Core` `C#` `SignalR` `Vue 3` `TypeScript` `Vuetify` `Azure DevOps`
 
 ---
 
-## 📫 Connect With Me  
-- 📧 Email: **mehedihasan.al.bd@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/mehedi-hasan-opu](https://www.linkedin.com/in/mehedi-hasan-opu)  
-- 🌐 Portfolio: [www.nop-solutions.com](https://www.nop-solutions.com/)  
-- 📞 Phone: **+8801723962962**  
+### Programmer — Computer Network Systems Ltd.
+
+**Nov 2019 – Oct 2022**
+
+Worked on large-scale government and enterprise systems.
+
+Projects:
+
+#### Chittagong Port Authority Automation System
+
+Developed and maintained modules including:
+
+* Provident Fund
+* Pension
+* Payroll
+* Attendance
+* Internal Audit
+* Government Audit
+* Dashboard & Reporting
+* User Access Control
+
+Tech Stack:
+
+`Laravel` `Vue.js` `Oracle Database` `Oracle BI Publisher`
+
+#### Nirsheba E-Commerce Platform
+
+Built order-to-delivery and purchase-to-sale workflows.
 
 ---
 
-✨ *“Code is not just about solving problems — it’s about creating meaningful solutions that empower people and businesses.”*  
+## 🛠 Technical Skills
+
+### Backend
+
+* C#
+* .NET Framework
+* .NET Core
+* ASP.NET Core MVC
+* ASP.NET Core Web API
+* Entity Framework Core
+* SignalR
+* JWT Authentication
+* xUnit
+
+### Frontend
+
+* Vue.js 2 & 3
+* Nuxt 3
+* Angular
+* TypeScript
+* Pinia
+* Vuex
+* Vuetify
+* Ant Design Vue
+* BootstrapVue
+
+### Databases
+
+* SQL Server
+* MySQL
+* Oracle Database
+
+### Cloud & DevOps
+
+* Azure DevOps
+* GitHub Actions
+* Docker
+* AWS
+
+### Architecture
+
+* Clean Architecture
+* Vertical Slice Architecture
+* CQRS
+* Domain Driven Design (DDD)
+* N-Tier Architecture
+* Dependency Injection
+* Unit of Work
+* Repository Pattern
+
+---
+
+## 🌟 Featured Projects
+
+### TradeFlow ERP
+
+Enterprise ERP solution covering:
+
+* Accounts
+* HRM
+* Payroll
+* Inventory
+* Sales
+* Purchase
+* CRM
+* POS
+
+Tech:
+
+ASP.NET Core Web API + Vue.js
+
+---
+
+### Garments ERP SaaS
+
+Multi-tenant ERP for garment manufacturers.
+
+Features:
+
+* Merchandising
+* Costing
+* Procurement
+* Production Planning
+* Inventory
+* Quality Control
+* HRM
+* Payroll
+* Financial Management
+
+Tech:
+
+ASP.NET Core Web API + Vue 3 + Pinia + Vuetify
+
+---
+
+### Hospital ERP
+
+Comprehensive hospital management platform featuring:
+
+* Patient Management
+* Doctors Management
+* Appointments
+* Billing
+* Laboratory
+* Pharmacy
+* Medical Records
+
+Tech:
+
+ASP.NET Core MVC + SQL Server
+
+---
+
+### School Management System
+
+* Student Management
+* Attendance
+* Exams
+* Fees
+* Academic Planning
+* Parent Portal
+
+Tech:
+
+ASP.NET Core MVC + SQL Server
+
+---
+
+### Food & Grocery Delivery Platform
+
+Features:
+
+* Multi-vendor Management
+* Product Catalog
+* Shopping Cart
+* Order Tracking
+* Delivery Workflow
+
+Tech:
+
+ASP.NET Core MVC + SQL Server
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: [mehedihasan.al.bd@gmail.com](mailto:mehedihasan.al.bd@gmail.com)
+
+💼 LinkedIn:
+https://www.linkedin.com/in/mehedi-hasan-opu
+
+🌐 Website:
+https://www.nop-solutions.com
+
+📍 Bangladesh
+
+---
+
+### Philosophy
+
+> “Great software is not just code. It is the combination of architecture, usability, scalability, and business value.”
